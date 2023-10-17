@@ -1,0 +1,7 @@
+accelerate>=0.13.2
+pandas
+sentence_transformers>=1.6.0
+# torch>=1.10.1
+torch-optimizer>=0.3.0
+tqdm
+transformers>=4.23.1
